@@ -53,3 +53,10 @@ For example:
 * [sto-delphi.by](https://sto-delphi.by/)
 
 * [alif-dmc.ae](https://alif-dmc.ae)
+
+## Languages
+
+* Russian - native speaker
+* English
+  * Tutoring
+  * [EPAM English test result A1](https://examinator.epam.com/Main/PersonalAssignments/318476). But i'n sure that my level higher, i think A2. I’m constantly trying to improve my English
