@@ -1,5 +1,7 @@
 # Yury Labatsevich
 
+![photo](./assets/images/yury.jpg)
+
 ## Contacts
 
 * __Location__: Minsk,Belarus
