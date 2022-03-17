@@ -9,6 +9,7 @@
 * __Phone__:    +375 29 5925384
 * __Telegram__: [@Yuri_Labatsevich](https://t.me/Yuri_Labatsevich)
 * __GitHub__:   [labatsevich](https://github.com/labatsevich)
+* __Discord__:Yura Labatsevich#5669
 
 ## About me
 
