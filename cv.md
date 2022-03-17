@@ -1,6 +1,6 @@
 # Yury Labatsevich
 
-![photo](./assets/images/yury.jpg)
+![photo](assets/images/yury.jpg)
 
 ## Contacts
 
