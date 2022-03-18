@@ -49,7 +49,7 @@ console.log(multiply(2,3));
 
 ## Experience
 
-Have experience in web development. Until recently, he took part in supporting and finalizing the [electronic catalog](https://viko-t.by) of the company engaged in the sale of electronics.
+Have experience in web development. Until recently, I’ve been involved in supporting and refining the [electronic catalog](https://viko-t.by) of the company engaged in the sale of electronics.
 He also made small websites and landing pages.
 For example:
 
@@ -62,4 +62,4 @@ For example:
 * Russian - native speaker
 * English
   * Tutoring
-  * [EPAM English test result A1](https://examinator.epam.com/Main/PersonalAssignments/318476). But i'n sure that my level higher, i think A2. I’m constantly trying to improve my English
+  * [EPAM English test result A1](https://examinator.epam.com/Main/PersonalAssignments/318476). But i'm sure that my level higher, i think A2. I’m constantly trying to improve my English
