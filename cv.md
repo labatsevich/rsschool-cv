@@ -50,7 +50,7 @@ console.log(multiply(2,3));
 ## Experience
 
 Have experience in web development. Until recently, I’ve been involved in supporting and refining the [electronic catalog](https://viko-t.by) of the company engaged in the sale of electronics.
-He also made small websites and landing pages.
+I also made small websites and landing pages.
 For example:
 
 * [sto-delphi.by](https://sto-delphi.by/)
